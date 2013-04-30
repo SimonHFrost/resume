@@ -76,7 +76,7 @@ Interests
     -  Digital Music Production
     -  Trumpet
 
-*   **Socializing**
+*   **General**
     -  Volleyball
     -  Spanish (learning)
     -  Board Games
