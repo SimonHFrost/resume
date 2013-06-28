@@ -69,10 +69,9 @@ Interests
 *   **Programming**
     -  Web Development
     -  Mobile Development
-    -  Computer Games
+    -  Video Game Development
 
 *   **Music**
-    -  Festivals
     -  Digital Music Production
     -  Trumpet
 
