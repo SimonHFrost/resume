@@ -40,7 +40,6 @@ Projects
 --------
 
 *   <a href="https://play.google.com/store/apps/details?id=awkwardturtle.frostapplications&hl=en">Awkward Turtle - Android Marketplace</a>
-*   <a href="http://www.simonhfrost.com">Simonhfrost.com</a>
 *   <a href="http://www.surveynz.co.nz">SurveyNz.co.nz</a>
 *   <a href="http://www.fluffylink.com">FluffyLink.com</a>
 *   <a href="http://www.concorpro.com">Concorpro.com</a>
