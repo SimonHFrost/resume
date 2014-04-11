@@ -1,4 +1,4 @@
-Simon Frost Resumé
+Simon Frost
 ==================
 
 Mobile - 0273040032
@@ -9,16 +9,16 @@ Mobile - 0273040032
 Work Experience
 ---------------
 
-*   **Telogis** 
+*   **Telogis** (Feb 2012 - Feb 2014)
 
-    Route Team (Feb 2012 - Feb 2014)
+    Route Team 
     -   Route Delivery Optimization and Logistics 
     -   Conducting Interviews and Presentations
     -   C#, Javascript, Powershell, SQL
 
-*   **HITLab - Educational Computer Games**
+*   **HITLab - Educational Computer Games** (Nov 2011 - Feb 2012)
 
-    Research Assistant (Nov 2011 - Feb 2012)
+    Research Assistant 
     -   Effective Design Processes for Educational Computer Games
     -   Scripting, Modelling and Design 
     -   C#, Javascript, Maya
@@ -33,26 +33,15 @@ Work Experience
 Projects
 --------
 
-*   <a href="https://www.rainbowslice.com>RainbowSlice.com>Rainbow Slice</a>
+*   <a href="https://www.rainbowslice.com">Rainbow Slice</a>
     - A WebGL video game made with Three.js and served with Node.js
 *   <a href="https://play.google.com/store/apps/details?id=awkwardturtle.frostapplications&hl=en">Awkward Turtle - Android Marketplace</a>
-    - An Android application with 14,000+ total downloads and 3.8/5 rating
+    - An Android application with 14,000+ downloads and a 3.8/5 rating
 *   <a href="http://www.fluffylink.com">FluffyLink.com</a>
-    - A url redirector that aims at being memorable rather than concice - 'fluffylink.com/MiniatureMajesticLion'
+    - A URL redirector that aims at being memorable rather than concice 'fluffylink.com/MiniatureMajesticLion'
 
 Education
 ---------
-
-*   **CodeSchool.com** (Apr 2014)
-    -   Anatomy of Backbone.js
-    -   Real-time web with Node.js
-    -   Rails for Zombies Redux
-    -   Git Real
-
-*   **Coursera.org** (Dec 2011 - Feb 2014)
-    -   Functional Programming
-    -   Heterogeneous Programming
-    -   Introduction to Improvisation (Trumpet)
 
 *   **BSc in Computer Science** (Feb 2009 - Dec 2011)
     -   University of Canterbury, New Zealand
@@ -60,8 +49,23 @@ Education
     -   Java, Web, Android, Python, C#
 
 *   **Burnside High School** (Jan 2004 - Dec 2008)
+    -   Burnside, New Zealand
     -   Multimedia, Computer Hardware and Security, ICT
     -   Calculus, Physics, English
+
+Supplemental Education
+---------
+
+*   **CodeSchool.com**
+    -   Anatomy of Backbone.js
+    -   Real-time Web with Node.js
+    -   Rails for Zombies Redux
+    -   Git Real
+
+*   **Coursera.org**
+    -   Functional Programming
+    -   Heterogeneous Programming
+    -   Introduction to Improvisation (Trumpet)
 
 Interests
 ---------
@@ -83,4 +87,4 @@ Interests
 References
 ----------
 
-Character, performance refernces supplied on request.
+Character and performance references supplied on request.
