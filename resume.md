@@ -33,7 +33,7 @@ Work Experience
 Projects
 --------
 
-*   <a href="https://www.rainbowslice.com>RainbowSlice.com</a>
+*   <a href="https://www.rainbowslice.com>RainbowSlice.com>Rainbow Slice</a>
     - A WebGL video game made with Three.js and served with Node.js
 *   <a href="https://play.google.com/store/apps/details?id=awkwardturtle.frostapplications&hl=en">Awkward Turtle - Android Marketplace</a>
     - An Android application with 14,000+ total downloads and 3.8/5 rating
