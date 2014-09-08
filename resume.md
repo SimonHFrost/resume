@@ -29,7 +29,7 @@ Work Experience
     -   Earthquare Repairs Correspondent
     -   Tenant Acquisition
     
-Projects
+Personal Projects
 --------
 
 *   <a href="https://github.com/SimonHFrost/launch_cloud">**LaunchCloud**</a>
@@ -42,7 +42,7 @@ Projects
 
 *   <a href="https://play.google.com/store/apps/details?id=awkwardturtle.frostapplications&hl=en">**Awkward Turtle**</a>
 
-    Android application with 15,000 downloads
+    Android application with 15,000 downloads made with Java
 
 Education
 ---------
