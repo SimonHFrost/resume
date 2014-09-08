@@ -1,9 +1,9 @@
 Simon Frost
 ==================
 
-<a href="mailto:simonhfrost@gmail.com">Simonhfrost@gmail.com</a>
-<a href="https://github.com/SimonHFrost">Github.com/simonhfrost</a>
-<a href="http://www.linkedin.com/in/simonhfrost">Linkedin.com/in/simonhfrost</a>
+Simonhfrost@gmail.com
+Github.com/simonhfrost
+Linkedin.com/in/simonhfrost
 
 Work Experience
 ---------------
@@ -22,9 +22,9 @@ Work Experience
     -   Scripting, Modelling and Design 
     -   C#, Javascript, Maya
     
-*   **Property Manager**
+*   **Property Manager** (Feb 2010 - Feb 2013)
     
-    Local Liason and Management for Frost Family Trust (Feb 2010 - Feb 2013)
+    Local Liason and Management for Frost Family Trust 
     -   First Point of Contact
     -   Earthquare Repairs Correspondent
     -   Tenant Acquisition
@@ -32,12 +32,17 @@ Work Experience
 Projects
 --------
 
-*   <a href="https://github.com/SimonHFrost/launch_cloud">LaunchCloud</a>
-    -   Backbone.js project utilizing Chrome Midi and SoundCloud API's
-*   <a href="https://www.rainbowslice.com">Rainbow Slice</a>
-    -   WebGL video game made with Three.js and Node.js
-*   <a href="https://play.google.com/store/apps/details?id=awkwardturtle.frostapplications&hl=en">Awkward Turtle - Android Marketplace</a>
-    -   Android application with 15,000 downloads
+*   <a href="https://github.com/SimonHFrost/launch_cloud">**LaunchCloud**</a>
+
+    Backbone.js project utilizing Chrome Midi and SoundCloud API's
+
+*   <a href="https://www.rainbowslice.com">**Rainbow Slice**</a>
+
+    WebGL video game made with Three.js and Node.js
+
+*   <a href="https://play.google.com/store/apps/details?id=awkwardturtle.frostapplications&hl=en">**Awkward Turtle**</a>
+
+    Android application with 15,000 downloads
 
 Education
 ---------
