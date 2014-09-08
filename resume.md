@@ -1,7 +1,6 @@
 Simon Frost
 ==================
 
-Mobile - 0273040032
 <a href="mailto:simonhfrost@gmail.com">Simonhfrost@gmail.com</a>
 <a href="https://github.com/SimonHFrost">Github.com/simonhfrost</a>
 <a href="http://www.linkedin.com/in/simonhfrost">Linkedin.com/in/simonhfrost</a>
@@ -27,18 +26,18 @@ Work Experience
     
     Local Liason and Management for Frost Family Trust (Feb 2010 - Feb 2013)
     -   First Point of Contact
-    -   EQC Correspondent
+    -   Earthquare Repairs Correspondent
     -   Tenant Acquisition
     
 Projects
 --------
 
+*   <a href="https://github.com/SimonHFrost/launch_cloud">LaunchCloud</a>
+    -   Backbone.js project utilizing Chrome Midi and SoundCloud API's
 *   <a href="https://www.rainbowslice.com">Rainbow Slice</a>
-    - A WebGL video game made with Three.js and served with Node.js
+    -   WebGL video game made with Three.js and Node.js
 *   <a href="https://play.google.com/store/apps/details?id=awkwardturtle.frostapplications&hl=en">Awkward Turtle - Android Marketplace</a>
-    - An Android application with 14,000+ downloads and a 3.8/5 rating
-*   <a href="http://www.fluffylink.com">FluffyLink.com</a>
-    - A URL redirector that aims at being memorable rather than concice 'fluffylink.com/MiniatureMajesticLion'
+    -   Android application with 15,000 downloads
 
 Education
 ---------
@@ -65,24 +64,25 @@ Supplemental Education
 *   **Coursera.org**
     -   Functional Programming
     -   Heterogeneous Programming
-    -   Introduction to Improvisation (Trumpet)
+    -   Introduction to (Musical) Improvisation
 
 Interests
 ---------
 
 *   **Programming**
-    -  Conferences and Meet-ups
-    -  Global Game Jams and Lundum Dare
+	-   Hobby Projects
+    -   Conferences and Meet-ups
+    -   Global Game Jams and Hack-a-thons
 
 *   **Music**
-    -  Digital Music Production
-    -  Trumpet
-    -  Music Festivals and Concerts
+    -   Digital Music Production
+    -   Trumpet
+    -   Music Festivals and Concerts
 
 *   **General**
-    -  Learning Spanish
-    -  Board Games
-    -  Sci-fi Novels
+    -   Learning German and Spanish
+    -   Board Games
+    -   Reading
 
 References
 ----------
