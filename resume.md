@@ -2,6 +2,7 @@ Simon Frost
 ==================
 
 Simonhfrost@gmail.com
+Simonhfrost.com
 Github.com/simonhfrost
 Linkedin.com/in/simonhfrost
 
@@ -75,9 +76,9 @@ Interests
 ---------
 
 *   **Programming**
-	-   Hobby Projects
+	-   Personal Projects
     -   Conferences and Meet-ups
-    -   Global Game Jams and Hack-a-thons
+    -   Global Game Jams and 'Hackathons'
 
 *   **Music**
     -   Digital Music Production
