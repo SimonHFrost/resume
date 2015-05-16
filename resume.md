@@ -9,54 +9,60 @@ Linkedin.com/in/simonhfrost
 Work Experience
 ---------------
 
+*   **Blacklane** (Oct 2014 - Now)
+
+    Front-end Team
+    -   Development for the main website
+    -   Working with designers, managers and other teams
+    -   Javscript, Angular, Ruby on Rails
+
 *   **Telogis** (Feb 2012 - Feb 2014)
 
-    Route Team 
-    -   Route Delivery Optimization and Logistics 
-    -   Conducting Interviews and Presentations
+    Route Team
+    -   Route delivery optimization and logistics
+    -   Conducting interviews and presentations
     -   C#, Javascript, Powershell, SQL
 
 *   **HITLab - Educational Computer Games** (Nov 2011 - Feb 2012)
 
-    Research Assistant 
-    -   Effective Design Processes for Educational Computer Games
-    -   Scripting, Modelling and Design 
-    -   C#, Javascript, Maya
-    
+    Research Assistant
+    -   Effective design processes for educational computer games
+    -   Scripting, Modelling, Design
+    -   C#, Javascript, Unity
+
 *   **Property Manager** (Feb 2010 - Feb 2013)
-    
-    Local Liason and Management for Frost Family Trust 
-    -   First Point of Contact
-    -   Earthquare Repairs Correspondent
-    -   Tenant Acquisition
-    
+
+    Local Liason and Management for Frost Family Trust
+    -   First point of contact
+    -   Earthquake repairs correspondent
+    -   Tenant acquisition
+
 Personal Projects
 --------
 
-*   <a href="https://github.com/SimonHFrost/launch_cloud">**LaunchCloud**</a>
+*   <a href="https://github.com/ashokfernandez/MidiHack2015">**The Certified Organic, Vegan Sequetron 5000**</a>
 
-    Backbone.js project utilizing Chrome Midi and SoundCloud API's
+    Basic step sequencer in iOS for a hackathon with virtually no iOS experience
+
+*   <a href="https://github.com/simonhfrost/mixingMustard">**Mixing Mustard**</a>
+
+    Angular project utilizing Web Midi and SoundCloud API's
 
 *   <a href="https://www.rainbowslice.com">**Rainbow Slice**</a>
 
     WebGL video game made with Three.js and Node.js
 
-*   <a href="https://play.google.com/store/apps/details?id=awkwardturtle.frostapplications&hl=en">**Awkward Turtle**</a>
+*   <a href="https://play.google.com/store/apps/details?id=awkwardturtle.frostapplications">**Awkward Turtle**</a>
 
-    Android application with 15,000 downloads made with Java
+    Android application with 15,000 downloads made in native Java
 
 Education
 ---------
 
 *   **BSc in Computer Science** (Feb 2009 - Dec 2011)
     -   University of Canterbury, New Zealand
-    -   Algorithms, Data Structures & Software Development 
+    -   Algorithms, Data Structures & Software Development
     -   Java, Web, Android, Python, C#
-
-*   **Burnside High School** (Jan 2004 - Dec 2008)
-    -   Burnside, New Zealand
-    -   Multimedia, Computer Hardware and Security, ICT
-    -   Calculus, Physics, English
 
 Supplemental Education
 ---------
@@ -76,9 +82,9 @@ Interests
 ---------
 
 *   **Programming**
-	-   Personal Projects
-    -   Conferences and Meet-ups
-    -   Global Game Jams and 'Hackathons'
+	-   Hobby Projects
+    -   Conferences and Meetups
+    -   Global Game Jams and Hackathons
 
 *   **Music**
     -   Digital Music Production
@@ -86,7 +92,7 @@ Interests
     -   Music Festivals and Concerts
 
 *   **General**
-    -   Learning German and Spanish
+    -   Learning German
     -   Board Games
     -   Reading
 
