@@ -40,21 +40,25 @@ Work Experience
 Personal Projects
 --------
 
-*   <a href="https://github.com/ashokfernandez/MidiHack2015">**The Certified Organic, Vegan Sequetron 5000**</a>
+*   **The Certified Organic, Vegan Sequetron 5000**
 
-    Basic step sequencer in iOS for a hackathon with virtually no iOS experience
+    https://github.com/ashokfernandez/MidiHack2015
+    -   Basic step sequencer in iOS for a hackathon with virtually no iOS experience
 
-*   <a href="https://github.com/simonhfrost/mixingMustard">**Mixing Mustard**</a>
+*   **Mixing Mustard**
 
-    Angular project utilizing Web Midi and SoundCloud API's
+    https://github.com/simonhfrost/mixingMustard
+    -   Angular project utilizing Web Midi and SoundCloud API's
 
-*   <a href="https://www.rainbowslice.com">**Rainbow Slice**</a>
+*   **Rainbow Slice**
 
-    WebGL video game made with Three.js and Node.js
+    https://www.rainbowslice.com
+    -   WebGL video game made with Three.js and Node.js
 
-*   <a href="https://play.google.com/store/apps/details?id=awkwardturtle.frostapplications">**Awkward Turtle**</a>
+*   **Awkward Turtle**
 
-    Android application with 15,000 downloads made in native Java
+    https://play.google.com/store/apps/details?id=awkwardturtle.frostapplications
+    -   Android application with 15,000 downloads made in native Java
 
 Education
 ---------
