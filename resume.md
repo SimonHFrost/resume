@@ -12,8 +12,8 @@ Work Experience
 *   **Blacklane** (Oct 2014 - Now)
 
     Front-end Team
-    -   Development for the main website
-    -   Working with designers, managers and other teams
+    -   Feature implementation and maintanence of booking and account management
+    -   Working with designers, stakeholders and other teams
     -   Javscript, Angular, Ruby on Rails
 
 *   **Telogis** (Feb 2012 - Feb 2014)
@@ -40,25 +40,17 @@ Work Experience
 Personal Projects
 --------
 
-*   **The Certified Organic, Vegan Sequetron 5000**
+*   **The Certified Organic, Vegan Sequetron 5000** (https://github.com/ashokfernandez/MidiHack2015)
+    -   Basic step sequencer in iOS for 'Midihack' Hackathon
 
-    https://github.com/ashokfernandez/MidiHack2015
-    -   Basic step sequencer in iOS for a hackathon with virtually no iOS experience
-
-*   **Mixing Mustard**
-
-    https://github.com/simonhfrost/mixingMustard
+*   **Mixing Mustard** (https://github.com/simonhfrost/mixingMustard)
     -   Angular project utilizing Web Midi and SoundCloud API's
 
-*   **Rainbow Slice**
-
-    https://www.rainbowslice.com
+*   **Rainbow Slice** (https://www.rainbowslice.com)
     -   WebGL video game made with Three.js and Node.js
 
-*   **Awkward Turtle**
-
-    https://play.google.com/store/apps/details?id=awkwardturtle.frostapplications
-    -   Android application with 15,000 downloads made in native Java
+*   **Awkward Turtle** (https://play.google.com/store/apps/details?id=awkwardturtle.frostapplications)
+    -   Android application with 15,000 downloads
 
 Education
 ---------
@@ -82,11 +74,18 @@ Supplemental Education
     -   Heterogeneous Programming
     -   Introduction to (Musical) Improvisation
 
+Community Involvement
+---------
+* Co-organizing Berlin Hack && Tell
+* Helping with preperation of meetups hosted at our office
+	- Clojure, Ruby, Go, Rust 
+* Assistance at recruiting events
+
 Interests
 ---------
 
 *   **Programming**
-	-   Hobby Projects
+    -   Hobby Projects
     -   Conferences and Meetups
     -   Global Game Jams and Hackathons
 
