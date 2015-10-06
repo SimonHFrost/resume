@@ -1,13 +1,16 @@
 Simon Frost
-==================
+=
 
-simonhfrost@gmail.com
-simonhfrost.com
-github.com/simonhfrost
-linkedin.com/in/simonhfrost
+Contact
+-
+
+* simonhfrost@gmail.com
+* simonhfrost.com
+* github.com/simonhfrost
+* linkedin.com/in/simonhfrost
 
 Work Experience
----------------
+-
 
 *   **Blacklane** (Oct 2014 - Now)
 
@@ -38,7 +41,7 @@ Work Experience
     - Tenant acquisition
 
 Personal Projects
---------
+-
 
 *   **The Certified Organic, Vegan Sequetron 5000** (https://github.com/ashokfernandez/MidiHack2015)
     - Basic step sequencer in iOS for 'Midihack' Hackathon
@@ -53,7 +56,7 @@ Personal Projects
     - Basic Android application with 15,000 downloads
 
 Education
----------
+-
 
 *   **BSc in Computer Science** (Feb 2009 - Dec 2011)
     - University of Canterbury, New Zealand
@@ -61,7 +64,7 @@ Education
     - Java, Web, Android, Python, C#
 
 Supplemental Education
----------
+-
 
 *   **CodeSchool.com**
     - Anatomy of Backbone.js
@@ -74,7 +77,7 @@ Supplemental Education
     - Introduction to (Musical) Improvisation
 
 Community
----------
+-
 
 * **Meetups**
 	- Co-organizer for 'Berlin Hack and Tell' meetup
@@ -87,7 +90,7 @@ Community
 	- Front-end developer speed dating
 
 Interests
----------
+-
 
 *   **Music**
     - Digital Music Production
@@ -100,6 +103,6 @@ Interests
     - Reading
 
 References
-----------
+-
 
 Character and performance references supplied on request.
