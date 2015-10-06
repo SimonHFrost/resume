@@ -5,6 +5,10 @@ Contact
 -
 
 * simonhfrost@gmail.com
+
+Information
+-
+
 * simonhfrost.com
 * github.com/simonhfrost
 * linkedin.com/in/simonhfrost
@@ -12,28 +16,28 @@ Contact
 Work Experience
 -
 
-*   **Blacklane** (Oct 2014 - Now)
+*   **Blacklane** One Year (Oct 2014 - Present)
 
-    Front-end Team
+    Software Engineer
     - Feature implementation and maintanence of booking and account management
     - Working with designers, stakeholders and other teams
     - Javascript, Angular, Ruby on Rails, AWS
 
-*   **Telogis** (Feb 2012 - Feb 2014)
+*   **Telogis** Two Years (Feb 2012 - Feb 2014)
 
-    Route Team
+    Software Engineer
     - Route delivery optimization and logistics
     - Conducting interviews and presentations
     - Javascript, C#, Powershell, SQL
 
-*   **HITLab - Educational Computer Games** (Nov 2011 - Feb 2012)
+*   **HITLab - Educational Computer Games** Three Months (Nov 2011 - Feb 2012)
 
-    Research Assistant
+    Software Engineer
     - Effective design processes for educational computer games
     - Scripting, Modelling, Design
     - Javascript, C#, Unity
 
-*   **Property Manager** (Feb 2010 - Feb 2013)
+*   **Property Manager** Three Years (Feb 2010 - Feb 2013)
 
     Local Liason for Frost Family Trust
     - First point of contact
@@ -46,14 +50,14 @@ Personal Projects
 *   **The Certified Organic, Vegan Sequetron 5000** (https://github.com/ashokfernandez/MidiHack2015)
     - Basic step sequencer in iOS for 'Midihack' Hackathon
 
-*   **Mixing Mustard** (https://github.com/simonhfrost/mixingMustard)
-    - Angular project utilizing Web Midi and SoundCloud API's
-
 *   **Rainbow Slice** (https://www.rainbowslice.com)
     - WebGL video game made with Three.js and Node.js
 
 *   **Awkward Turtle** (https://play.google.com/store/apps/details?id=awkwardturtle.frostapplications)
     - Basic Android application with 15,000 downloads
+ 
+*   **Mixing Mustard** (https://github.com/simonhfrost/mixingMustard)
+    - Angular project utilizing Web Midi and SoundCloud API's
 
 Education
 -
