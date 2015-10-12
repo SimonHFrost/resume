@@ -38,9 +38,9 @@ Work Experience
     - Scripting, Modelling, Design
     - Javascript, C#, Unity3D
 
-    At the HITLab I worked with a PhD student to develop a prototype game that taught players about geothermal energy - it's applications and methods of harnessing it. I scripted interactions and events with C# and javascript, and also worked alongside an animator, and my supervisor.
-    
-    The game won an internationally recognized award, you can find more information here: [http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443](http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443)
+    At the HITLab I worked with a PhD student to develop a prototype game that taught players about geothermal energy - it's applications and methods of harnessing it. I scripted interactions and events with C# and javascript.
+        
+    The game won an internationally recognized award, where you can find more information about here: [http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443](http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443)
 
 *   **Property Manager** - Three Years (Feb 2010 - Feb 2013)
 
@@ -92,7 +92,7 @@ Community
 
 * **Meetups**
 	- Co-organizer for 'Berlin Hack and Tell' meetup
-	- Attendee of Ableton Usergroup, Berlin Web Audio, Berlin.js
+	- Attendee of Ableton User Group, Berlin Web Audio, Berlin.js
 	- Assistance in Employer sponsored meetups - Clojure, Ruby, Go, Rust
 
 * **Events**
@@ -107,12 +107,7 @@ Interests
     - Trumpet
     - Music Festivals and Concerts
 
-*   **General**
-    - Learning German
-    - Board Games
-    - Reading
-
 References
 -
 
-Character and performance references supplied on request.
+*   Character and performance references supplied on request.
