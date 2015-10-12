@@ -9,28 +9,34 @@ linkedin.com/in/simonhfrost
 Work Experience
 -
 
-*   **Blacklane** One Year (Oct 2014 - Present)
+*   **Blacklane** - One Year (Oct 2014 - Present)
 
     Software Engineer
-    - Feature implementation and maintanence of booking and account management
-    - Working with designers, stakeholders and other teams
-    - Javascript, Angular, Ruby on Rails, AWS
+    - Deploying Version II of blacklane.com, implementation of corporate portal
+    - Working with designers, stakeholders and other development teams
+    - Javascript, HAML, SASS, Ruby on Rails, Gulp, Browserify
 
-*   **Telogis** Two Years (Feb 2012 - Feb 2014)
+	At Blacklane I was one of the main engineers improving booking and sections of the website where users performed tasks daily. Shortly after I joined, Version II of the website was deployed where I made last minute changes related to design and functionality.
+
+	Afterwards I continued to make improvements and reinforcements to booking, ride overview, rating, and other static pages. I worked mostly with Javascript, HAML, and SASS in the front-end, and ruby in the backend.
+
+	When the website was stable and effective I worked on the corporate portal which provided a set of features aimed at businesses that booked rides at a higher capacity.
+
+*   **Telogis** - Two Years (Feb 2012 - Feb 2014)
 
     Software Engineer
     - Route delivery optimization and logistics
     - Conducting interviews and presentations
     - Javascript, C#, Powershell, SQL
 
-*   **HITLab - Educational Computer Games** Three Months (Nov 2011 - Feb 2012)
+*   **HITLab - Educational Computer Games** - Three Months (Nov 2011 - Feb 2012)
 
     Software Engineer
     - Effective design processes for educational computer games
     - Scripting, Modelling, Design
     - Javascript, C#, Unity
 
-*   **Property Manager** Three Years (Feb 2010 - Feb 2013)
+*   **Property Manager** - Three Years (Feb 2010 - Feb 2013)
 
     Local Liason for Frost Family Trust
     - First point of contact
@@ -55,7 +61,7 @@ Personal Projects
 Education
 -
 
-*   **BSc in Computer Science** (Feb 2009 - Dec 2011)
+*   **BSc in Computer Science** - Three Years (Feb 2009 - Dec 2011)
     - University of Canterbury, New Zealand
     - Algorithms, Data Structures & Software Development
     - Java, Web, Android, Python, C#
@@ -79,12 +85,11 @@ Community
 * **Meetups**
 	- Co-organizer for 'Berlin Hack and Tell' meetup
 	- Attendee of Ableton Usergroup, Berlin Web Audio, Berlin.js
-	- Employer sponsored meetups - Clojure, Ruby, Go, Rust
+	- Assistance in Employer sponsored meetups - Clojure, Ruby, Go, Rust
 
 * **Events**
-	- Conferences - JSconf.eu, JSConf.bp, and JSUnconf
+	- Conferences - JSconf.eu, JSConf.bp, JSUnconf
 	- Hackathons - Node Knockout, Global Game Jam, Lundum Dare
-	- Front-end developer speed dating
 
 Interests
 -
