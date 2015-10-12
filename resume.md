@@ -1,17 +1,10 @@
 Simon Frost
 =
 
-Contact
--
-
-* simonhfrost@gmail.com
-
-Information
--
-
-* simonhfrost.com
-* github.com/simonhfrost
-* linkedin.com/in/simonhfrost
+simonhfrost@gmail.com
+simonhfrost.com
+github.com/simonhfrost
+linkedin.com/in/simonhfrost
 
 Work Experience
 -
@@ -55,7 +48,7 @@ Personal Projects
 
 *   **Awkward Turtle** (https://play.google.com/store/apps/details?id=awkwardturtle.frostapplications)
     - Basic Android application with 15,000 downloads
- 
+
 *   **Mixing Mustard** (https://github.com/simonhfrost/mixingMustard)
     - Angular project utilizing Web Midi and SoundCloud API's
 
