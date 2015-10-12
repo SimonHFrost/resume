@@ -12,15 +12,13 @@ Work Experience
 *   **Blacklane** - One Year (Oct 2014 - Present)
 
     Software Engineer
-    - Deploying Version II of blacklane.com, implementation of corporate portal
+    - Implementing Version II of blacklane.com, corporate portal
     - Working with designers, stakeholders and other development teams
     - Javascript, HAML, SASS, Ruby on Rails, Gulp, Browserify
 
-	At Blacklane I was one of the main engineers improving booking and sections of the website where users performed tasks daily. Shortly after I joined, Version II of the website was deployed where I made last minute changes related to design and functionality.
-
-	Afterwards I continued to make improvements and reinforcements to booking, ride overview, rating, and other static pages. I worked mostly with Javascript, HAML, and SASS in the front-end, and ruby in the backend.
-
-	When the website was stable and effective I worked on the corporate portal which provided a set of features aimed at businesses that booked rides at a higher capacity.
+	Shortly after I joined Version II of the website was deployed where I helped with final changes related to design and functionality in AngularJS and Rails. Afterwards I continued to make improvements and reinforcements to booking, ride overview listings, ratings, and other static pages.
+	
+	More recently I worked on the corporate portal which provided a set of features and pages aimed at customers that booked rides at a higher capacity. This required constant collaboration with product managers, UX, and other engineers.
 
 *   **Telogis** - Two Years (Feb 2012 - Feb 2014)
 
@@ -29,12 +27,20 @@ Work Experience
     - Conducting interviews and presentations
     - Javascript, C#, Powershell, SQL
 
+    At Telogis I worked on the interface and backend for a Travelling Salesman Problem solver. The product integrated tightly with multiple different services such as a real-time fleet tracker.
+    
+    I worked throughout the stack from the client in Ext JS and Silverlight, to the backend in C#, and powershell to automate tasks. I also helped in recruiting by giving employeer presentations and attending job fairs.
+
 *   **HITLab - Educational Computer Games** - Three Months (Nov 2011 - Feb 2012)
 
     Software Engineer
     - Effective design processes for educational computer games
     - Scripting, Modelling, Design
-    - Javascript, C#, Unity
+    - Javascript, C#, Unity3D
+
+    At the HITLab I worked with a PhD student to develop a prototype game that taught players about geothermal energy - it's applications and methods of harnessing it. I scripted interactions and events with C# and javascript, and also worked alongside an animator, and my supervisor.
+    
+    The game won an internationally recognized award, you can find more information here: [http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443](http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443)
 
 *   **Property Manager** - Three Years (Feb 2010 - Feb 2013)
 
@@ -42,6 +48,8 @@ Work Experience
     - First point of contact
     - Earthquake repairs correspondent
     - Tenant acquisition
+
+    As a property manager I was responsible for operations related to a small selection of apartments. In February 2012 a fairly serious earthquake also tasked me with arranging repairs, relaying information to and from tenants, and dealing with insurance claims.
 
 Personal Projects
 -
@@ -64,7 +72,7 @@ Education
 *   **BSc in Computer Science** - Three Years (Feb 2009 - Dec 2011)
     - University of Canterbury, New Zealand
     - Algorithms, Data Structures & Software Development
-    - Java, Web, Android, Python, C#
+    - Java, Javascript, Android, Python, C#
 
 Supplemental Education
 -
