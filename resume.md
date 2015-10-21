@@ -51,17 +51,18 @@ Work Experience
 Personal Projects
 -
 
+*   **Rainbow Slice** (http://www.rainbowslice.com)
+    - WebGL video game made with Three.js and Node.js
+
+*   **Merry Beats 3D** (http://simonhfrost.com/merry-beats-3d)
+    - 3D Step sequencer based on ableton.com/merry-beats
+
 *   **Awkward Turtle** (https://play.google.com/store/apps/details?id=awkwardturtle.frostapplications)
     - Novel Android application with 15,000 downloads
 
 *   **The Certified Organic, Vegan Sequetron 5000** (https://github.com/ashokfernandez/MidiHack2015)
     - Basic step sequencer in iOS for 'Midihack' Hackathon
 
-*   **Rainbow Slice** (https://www.rainbowslice.com)
-    - WebGL video game made with Three.js and Node.js
-
-*   **Merry Beats 3D** (https://github.com/SimonHFrost/merry-beats-3d)
-    - 3D Step sequencer based on ableton.com/merry-beats
 
 Education
 -
