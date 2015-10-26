@@ -9,7 +9,7 @@ linkedin.com/in/simonhfrost
 Work Experience
 -
 
-*  Oct 2014 - Present: **Blacklane GmbH** - Berlin
+*  Oct 2014 - Present: **Blacklane GmbH** - **Berlin**
 
     Frontend Developer
     - Javascript, HAML, SASS, Ruby on Rails, Gulp, Browserify
@@ -19,7 +19,9 @@ Work Experience
 	
 	More recently I worked on the corporate portal which provided a set of features and pages aimed at customers that booked rides at a higher capacity. This required constant collaboration with product managers, UX, and other developers.
 
-*   Feb 2012 - Feb 2014: **Telogis** - New Zealand
+&nbsp;
+
+*   Feb 2012 - Feb 2014: **Telogis** - **New Zealand**
 
     Full Stack Developer
     - Javascript, C#, Powershell, SQL
@@ -28,8 +30,10 @@ Work Experience
     At Telogis I worked on the interface and backend for a Travelling Salesman Problem solver. The product integrated tightly with multiple different services such as a real-time fleet tracker.
     
     I worked throughout the stack from the client in Ext JS and Silverlight, to the backend in C#, and powershell to automate tasks. I also helped in recruiting by giving employeer presentations and attending job fairs.
+    
+&nbsp;
         
-* 	 Nov 2011 - Feb 2012: **HITLab, University of Canterbury** - New Zealand
+* 	 Nov 2011 - Feb 2012: **HITLab, University of Canterbury** - **New Zealand**
 
     Game Developer
     - Javascript, C#, Unity3D
@@ -37,16 +41,15 @@ Work Experience
 
     At the HITLab (Human Interface Technology Laboratory) I obtained a scholarship and worked with a PhD student to develop a prototype game that taught players about geothermal energy - it's applications and methods of harnessing. I scripted interactions and events with C# and javascript.
         
-    The game won an internationally recognized award, where you can find more information about here: [http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443](http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443)
+    The game won an internationally recognized 'Student Award', more information can be found here: [http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443](http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443)
+    
+&nbsp;
 
-*   Feb 2010 - Feb 2013: **Property Manager** - New Zealand
+*   Feb 2010 - Feb 2013: **Frost Family Trust** - **New Zealand**
 
-    Local Liason for Frost Family Trust
-    - First point of contact
-    - Earthquake repairs correspondent
-    - Tenant acquisition
 
-    As a property manager I was responsible for operations related to a small selection of apartments. In February 2012 a fairly serious earthquake also tasked me with arranging repairs, relaying information to and from tenants, and dealing with insurance claims.
+    As a property manager I was responsible for operations related to a small selection of apartments. In February 2012 the Canterbury earthquake occured which also tasked me with arranging repairs, relaying information to and from tenants, and dealing with insurance claims.
+
 
 Personal Projects
 -
