@@ -9,15 +9,27 @@ linkedin.com/in/simonhfrost
 Work Experience
 -
 
-*  Oct 2014 - Present: **Blacklane GmbH** - **Berlin**
+*  Feb 2016 - Present: **Number26** - **Berlin**
+
+	Frontend Developer
+	- Javascript, Backbone, AWS
+	- Banking but better
+
+	At Number26 I developed features and fixed bugs for the web application which served around 30,000 page views a day. Additionally there was a strong focus in improving code quality and tooling, as the project changed from outsourced development to being managed inhouse.
+	
+	The features I worked on included a bank account switching service, a transaction screen redesign, and overdraft functionality.
+	
+	I worked with Kanban in feature teams which contained web developers, product managers, designers, mobile developers, and backend developers.
+
+*  Oct 2014 - Jan 2016: **Blacklane** - **Berlin**
 
     Frontend Developer
-    - Javascript, HAML, SASS, Ruby on Rails, Gulp, Browserify
+    - Javascript, AngularJS, Ruby on Rails, Gulp, HAML, SASS
     - Your Proffesional Driver
 
-	Shortly after I joined the second version of the website was deployed where I helped with final changes related to design and functionality in AngularJS and Rails. Afterwards I continued to make improvements and reinforcements to booking, ride overview listings, ratings, and other static pages.
+	At Blacklane I assisted with the release of the second version of the website which served over 5000 page views a day. Afterwards I continued to make improvements related to booking, ride listings, ride ratings, and other static marketing related pages.
 	
-	More recently I worked on the corporate portal which provided a set of features and pages aimed at customers that booked rides at a higher capacity. This required constant collaboration with product managers, UX, and other developers.
+	The main feature set I worked on was a corporate portal which provided features targed towards enterprise customers that booked rides at a higher capacity. This required constant collaboration with product managers, UX, and other developers.
 
 &nbsp;
 
@@ -27,9 +39,9 @@ Work Experience
     - Javascript, C#, Powershell, SQL
     - Route Delivery Optimization and Logistics
 
-    At Telogis I worked on the interface and backend for a Travelling Salesman Problem solver. The product integrated tightly with multiple different services such as a real-time fleet tracker.
+    At Telogis I worked on the interface and backend for a 'Travelling Salesman Problem' solver. The product integrated tightly with multiple different services such as a real-time fleet tracker.
     
-    I worked throughout the stack from the client in Ext JS and Silverlight, to the backend in C#, and powershell to automate tasks. I also helped in recruiting by giving employeer presentations and attending job fairs.
+    I worked throughout the stack from the client with Ext JS and Silverlight, to the backend with C# SQL and powershell to automate tasks. I also helped in recruiting by giving employeer presentations and attending job fairs.
     
 &nbsp;
         
@@ -105,8 +117,8 @@ Interests
 
 *   **Music**
     - Digital Music Production
-    - Trumpet
     - Music Festivals and Concerts
+    - Playing Trumpet
 
 References
 -
