@@ -15,21 +15,25 @@ Work Experience
 	- Javascript, Backbone, AWS
 	- Banking but better
 
-	At Number26 I developed features and fixed bugs for the web application which served around 30,000 page views a day. Additionally there was a strong focus in improving code quality and tooling, as the project changed from outsourced development to being managed inhouse.
-	
-	The features I worked on included a bank account switching service, a transaction screen redesign, and overdraft functionality.
-	
+	At Number26 I developed features and fixed bugs for the web application which served around 30,000 page views a day. There was also a strong focus in improving code quality and tooling, as the project changed from outsourced development to being managed inhouse.
+
+	Features I worked on included a bank account switching service, a transaction screen redesign, and overdraft functionality.
+
 	I worked with Kanban in feature teams which contained web developers, product managers, designers, mobile developers, and backend developers.
+
+&nbsp;
 
 *  Oct 2014 - Jan 2016: **Blacklane** - **Berlin**
 
     Frontend Developer
     - Javascript, AngularJS, Ruby on Rails, Gulp, HAML, SASS
-    - Your Proffesional Driver
+    - Your Professional Driver
 
-	At Blacklane I assisted with the release of the second version of the website which served over 5000 page views a day. Afterwards I continued to make improvements related to booking, ride listings, ride ratings, and other static marketing related pages.
-	
-	The main feature set I worked on was a corporate portal which provided features targed towards enterprise customers that booked rides at a higher capacity. This required constant collaboration with product managers, UX, and other developers.
+	At Blacklane I assisted with the release of the second version of the website which served over 5000 page views a day.
+
+	I continued to make improvements related to booking, ride listings, ride ratings, and other static marketing related pages.
+
+	The main feature set I worked on was a corporate portal which provided features targeted towards enterprise customers that booked rides at a higher capacity. This required constant collaboration with product managers, UX, and other developers.
 
 &nbsp;
 
@@ -39,12 +43,12 @@ Work Experience
     - Javascript, C#, Powershell, SQL
     - Route Delivery Optimization and Logistics
 
-    At Telogis I worked on the interface and backend for a 'Travelling Salesman Problem' solver. The product integrated tightly with multiple different services such as a real-time fleet tracker.
-    
-    I worked throughout the stack from the client with Ext JS and Silverlight, to the backend with C# SQL and powershell to automate tasks. I also helped in recruiting by giving employeer presentations and attending job fairs.
-    
+    At Telogis I worked on the interface and backend for a 'Traveling Salesman Problem' solver. The product integrated tightly with multiple different services such as a real-time fleet tracker.
+
+    I worked throughout the stack from the client with Ext JS and Silverlight, to the backend with C# SQL and powershell to automate tasks. I also helped in recruiting by giving employer presentations and attending job fairs.
+
 &nbsp;
-        
+
 * 	 Nov 2011 - Feb 2012: **HITLab, University of Canterbury** - **New Zealand**
 
     Game Developer
@@ -52,9 +56,9 @@ Work Experience
     - Effective Design Processes for Educational Computer Games
 
     At the HITLab (Human Interface Technology Laboratory) I obtained a scholarship and worked with a PhD student to develop a prototype game that taught players about geothermal energy - it's applications and methods of harnessing. I scripted interactions and events with C# and javascript.
-        
+
     The game won an internationally recognized 'Student Award', more information can be found here: [http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443](http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443)
-    
+
 &nbsp;
 
 *   Feb 2010 - Feb 2013: **Frost Family Trust** - **New Zealand**
