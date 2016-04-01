@@ -6,13 +6,15 @@ simonhfrost.com
 github.com/simonhfrost
 linkedin.com/in/simonhfrost
 
+I'm a frontend developer that is privacy conscious usability,  with the acceptance that sometimes time constraints mean things can't be perfect. I prefer to learn programming languages over frameworks, and solving problems than writing code.
+
 Work Experience
 -
 
 *  Feb 2016 - Present: **Number26** - **Berlin**
 
 	Frontend Developer
-	- Javascript, Backbone, AWS
+	- Javascript, Backbone, SASS, Gulp
 	- Banking but better
 
 	At Number26 I developed features and fixed bugs for the web application which served around 30,000 page views a day. There was also a strong focus in improving code quality and tooling, as the project changed from outsourced development to being managed inhouse.
