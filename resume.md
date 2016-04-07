@@ -17,7 +17,9 @@ Work Experience
 	- Javascript, Backbone, SASS, Gulp
 	- Banking but better
 
-	At Number26 I developed features and fixed bugs for the web application which served around 30,000 page views a day. There was also a strong focus in improving code quality and tooling, as the project changed from outsourced development to being managed inhouse.
+	At Number26 I developed features and fixed bugs for the web application which served around 30,000 page views a day. There was also a strong focus in improving code quality and tooling, as the project changed from outsourced development to being managed inhouse. 
+	
+	there was a higher focus on design and ux so I had the chance to learn more about css and web animations while still delivering features
 
 	Features I worked on included a bank account switching service, a transaction screen redesign, and overdraft functionality.
 
