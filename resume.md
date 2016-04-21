@@ -6,7 +6,13 @@ simonhfrost.com
 github.com/simonhfrost
 linkedin.com/in/simonhfrost
 
-I'm a frontend developer that is privacy conscious usability,  with the acceptance that sometimes time constraints mean things can't be perfect. I prefer to learn programming languages over frameworks, and solving problems than writing code.
+I'm a front-end developer that has over four years of experience developing solutions with a range of technology while collaborating with all sorts of teams and people.
+
+I'm experienced with Backbone.js, Angular, Gulp, Sass, Browserify, and ES2015. But also maintain a strong foundation of web technologies like raw Javascript, CSS, and HTML by keeping up to date with new specifications - and using it plain javascript where possible instead of falling back to 'insert favorite framework here'
+
+I believe that there is no superior programming language or framework, and that each problem should be analysed individually for it's needs.
+
+My goal is to programatically increase the user experience, without compromising security. All with the acknowledgement, that things can't always be perfect when there are time constraints.
 
 Work Experience
 -
@@ -17,8 +23,8 @@ Work Experience
 	- Javascript, Backbone, SASS, Gulp
 	- Banking but better
 
-	At Number26 I developed features and fixed bugs for the web application which served around 30,000 page views a day. There was also a strong focus in improving code quality and tooling, as the project changed from outsourced development to being managed inhouse. 
-	
+	At Number26 I developed features and fixed bugs for the web application which served around 25,000 page views a day. There was also a strong focus in improving code quality and tooling, as the project changed from outsourced development to being managed inhouse.
+
 	there was a higher focus on design and ux so I had the chance to learn more about css and web animations while still delivering features
 
 	Features I worked on included a bank account switching service, a transaction screen redesign, and overdraft functionality.
@@ -68,7 +74,7 @@ Work Experience
 *   Feb 2010 - Feb 2013: **Frost Family Trust** - **New Zealand**
 
 
-    As a property manager I was responsible for operations related to a small selection of apartments. In February 2012 the Canterbury earthquake occured which also tasked me with arranging repairs, relaying information to and from tenants, and dealing with insurance claims.
+    As a property manager I was responsible for operations related to a small selection of apartments. In February 2012 the Canterbury earthquake occurred which also tasked me with arranging repairs, relaying information to and from tenants, and dealing with insurance claims.
 
 
 Personal Projects
