@@ -6,13 +6,13 @@ simonhfrost.com
 github.com/simonhfrost
 linkedin.com/in/simonhfrost
 
-I'm a front-end developer that has over four years of experience developing solutions with a range of technology while collaborating with all sorts of teams and people.
+I have over four years of experience as a software engineer working as a full stack engineer, and as a front-end engineer.
 
-I'm experienced with Backbone.js, Angular, Gulp, Sass, Browserify, and ES2015. But also maintain a strong foundation of web technologies like raw Javascript, CSS, and HTML by keeping up to date with new specifications - and using it plain javascript where possible instead of falling back to 'insert favorite framework here'
+I excel in delivering and improving features that improve the user experience - including factors that aren't obvious such as performance and intuition.
 
-I believe that there is no superior programming language or framework, and that each problem should be analysed individually for it's needs.
+I believe there is no superior programming language or framework, and that problems should be analyzed for their individual needs.
 
-My goal is to programatically increase the user experience, without compromising security. All with the acknowledgement, that things can't always be perfect when there are time constraints.
+I understand that most issues arise from invalid assumptions, and that effective communication can mitigate this. I have experience working and communicating in teams with multiple roles that change often.
 
 Work Experience
 -
@@ -23,13 +23,11 @@ Work Experience
 	- Javascript, Backbone, SASS, Gulp
 	- Banking but better
 
-	At Number26 I developed features and fixed bugs for the web application which served around 25,000 page views a day. There was also a strong focus in improving code quality and tooling, as the project changed from outsourced development to being managed inhouse.
+	At Number26 I worked on the main web application which served around half a million page views a month. There was a strong focus on improving code quality and tooling as the project was taken over from an outsourced developer, all while maintaining feature deployment frequency.
 
-	there was a higher focus on design and ux so I had the chance to learn more about css and web animations while still delivering features
+	There was a high focus on design and user experience, as I worked alongside a team of talented designers.
 
 	Features I worked on included a bank account switching service, a transaction screen redesign, and overdraft functionality.
-
-	I worked with Kanban in feature teams which contained web developers, product managers, designers, mobile developers, and backend developers.
 
 &nbsp;
 
