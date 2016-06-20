@@ -1,4 +1,4 @@
-This is my CV.
+This is my Resume.
 
 Content is in `contents/index.md`
 Template and styling is in `index.jade`
