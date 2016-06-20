@@ -1,17 +1,22 @@
+---
+title: CV
+template: index.jade
+---
+
 Simon Frost
-=
+-----------
 
 simonhfrost@gmail.com
 simonhfrost.com
 github.com/simonhfrost
 linkedin.com/in/simonhfrost
 
-I have over four years of professional experience as a software engineer, most recently as a front-end engineer. I excel in delivering features that improve user experience, while also focusing on code quality to maintain deployment velocity and future maintainability.
+I have over four years of professional experience as a software engineer, most recently as a front-end engineer. I excel in delivering features that improve user experience, while also focusing on code quality to maintain deployment velocity and future code maintainability.
 
 I believe there is no superior programming language or framework, and that projects should be analyzed for their individual needs. I understand that most issues arise from invalid assumptions, and that effective communication can mitigate this. I have experience working and communicating in teams with multiple roles that constantly changing.
 
 Work Experience
--
+---------------
 
 *  Feb 2016 - Present: **Number26** - **Berlin**
 
@@ -23,7 +28,7 @@ Work Experience
 
 	There was a high focus on design and user experience as I worked with Kanban in a team of talented designers, product managers and other engineers.
 
-	Features I worked on included a bank switching service, transaction screen redesign, overdraft application process.
+	Features I worked on included a bank switching service, transaction screen redesign, overdraft application process. I also maintained a negative line contribution to the project - as a sign of my commitment to improve code quality by removing code duplication and introducing best practices.
 
 &nbsp;
 
@@ -44,12 +49,12 @@ Work Experience
 *   Feb 2012 - Feb 2014: **Telogis** - **New Zealand**
 
     Full Stack Developer
-    - Javascript, C#, Powershell, SQL
+    - Javascript, C#, SQL, PowerShell
     - Route Delivery Optimization and Logistics
 
     At Telogis I worked on the interface and backend for a 'Traveling Salesman Problem' solver. The product integrated tightly with multiple different services such as a real-time fleet tracker.
 
-    I worked throughout the stack from the client with Ext JS and Silverlight, to the backend with C# SQL and powershell to automate tasks. I also helped in recruiting by giving employer presentations and attending job fairs.
+    I worked with front-end technologies such as Ext JS and Silverlight, as well as backend technologies such as C#, SQL and PowerShell. I also helped in recruiting by giving employer presentations and attending job fairs.
 
 &nbsp;
 
@@ -65,12 +70,12 @@ Work Experience
 
 
 Personal Projects
--
+-----------------
 
-*   **Rainbow Slice** (http://www.rainbowslice.com)
+*   **Rainbow Slice** (https://github.com/SimonHFrost/rainbow-slice)
     - WebGL video game made with Three.js and Node.js
 
-*   **Merry Beats 3D** (http://simonhfrost.com/merry-beats-3d)
+*   **Merry Beats 3D** (https://github.com/SimonHFrost/merry-beats-3d)
     - 3D Step sequencer based on ableton.com/merry-beats
 
 *   **Awkward Turtle** (https://play.google.com/store/apps/details?id=awkwardturtle.frostapplications)
@@ -81,7 +86,7 @@ Personal Projects
 
 
 Education
--
+---------
 
 *   **BSc in Computer Science** - (Feb 2009 - Dec 2011)
     - University of Canterbury, New Zealand
@@ -102,7 +107,7 @@ Supplemental Education
     - Introduction to (Musical) Improvisation
 
 Community
--
+---------
 
 * **Meetups**
 	- Co-organizer for 'Berlin Hack and Tell' meetup
@@ -122,6 +127,6 @@ Interests
     - Playing Trumpet
 
 References
--
+----------
 
 *   Character and performance references supplied on request.
