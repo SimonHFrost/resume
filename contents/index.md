@@ -23,6 +23,7 @@ Work Experience
 	Front-end Developer
 	- Javascript, Backbone, Sass, Gulp
 	- Banking but better
+	- Bathroom DJ
 
 	At Number26 I worked on the web application which served half a million page views a month. There was a strong focus on rapid feature deployment while also improving code quality and tooling as the project was taken over from an outsourced contractor.
 
