@@ -14,6 +14,7 @@ Where?
 Resume history is in `contents/index.md`
 
 **Presentation**
+
 CSS is in `contents/main.css`
 Template is in `index.jade`
 
