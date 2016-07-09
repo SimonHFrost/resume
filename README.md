@@ -22,7 +22,9 @@ How?
 ----
 
 To install run: `npm install -g wintersmith`
+
 To preview run: `wintersmith preview`
+
 To build run: `wintersmith build`
 
 After building, generated files can be found in `./build`
