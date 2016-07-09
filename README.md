@@ -1,5 +1,5 @@
 Resume
-------
+======
 
 What?
 -----
@@ -9,10 +9,11 @@ This is my resume. Data (my resume history) and presentation (template and css) 
 Where?
 ------
 
-Data
+**Data**
+
 Resume history is in `contents/index.md`
 
-Presentation
+**Presentation**
 CSS is in `contents/main.css`
 Template is in `index.jade`
 
