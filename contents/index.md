@@ -1,5 +1,5 @@
 ---
-title: CV
+title: Resume
 template: index.jade
 ---
 
