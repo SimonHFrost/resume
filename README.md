@@ -21,10 +21,10 @@ Template is in `index.jade`
 How?
 ----
 
-To install run: `npm install -g wintersmith`
+**To install**: `npm install -g wintersmith`
 
-To preview run: `wintersmith preview`
+**To preview**: `wintersmith preview`
 
-To build run: `wintersmith build`
+**To build**: `wintersmith build`
 
 After building, generated files can be found in `./build`
