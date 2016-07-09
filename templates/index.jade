@@ -2,7 +2,8 @@ doctype html
 html(lang='en')
   head
     meta(charset='utf-8')
-    link(href='main.css', rel='stylesheet')
+    link(href='screen.css', rel='stylesheet', media='screen')
+    link(href='print.css', rel='stylesheet', media='print')
     title= locals.title
   body
     h1= page.title
