@@ -6,19 +6,21 @@ html(lang='en')
     link(href='print.css', rel='stylesheet', media='print')
     link(href='main.css', rel='stylesheet', media='screen')
     title= locals.title
-  body(class='container')
-    h1(class='page-header')= locals.pageHeader
-    div(class='external-links clearfix')
-      div(class='span-8')= locals.websiteUrl
-      div(class='span-8')= locals.githubUrl
-      div(class='span-8 last')= locals.email
-    != page.html
-    //- split this into (or generalize so they can all be done consistently):
-    //-   summary
-    //-   experience
-    //-   projects
-    //-   education
-    //-   supplemental education
-    //-   community
-    //-   interests
-    //-   references
+  body
+    header
+      h1(class='page-header')= locals.pageHeader
+    main(class='container')
+      div(class='external-links clearfix')
+        div(class='span-8')= locals.websiteUrl
+        div(class='span-8')= locals.githubUrl
+        div(class='span-8 last')= locals.email
+      != page.html
+      //- split this into (or generalize so they can all be done consistently):
+      //-   summary
+      //-   experience
+      //-   projects
+      //-   education
+      //-   supplemental education
+      //-   community
+      //-   interests
+      //-   references
