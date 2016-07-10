@@ -3,17 +3,16 @@ title: Resume
 template: index.jade
 ---
 
-Simon Frost
------------
+Simon Frost - Software Engineer
+-------------------------------
 
-simonhfrost@gmail.com
-simonhfrost.com
-github.com/simonhfrost
-linkedin.com/in/simonhfrost
+* simonhfrost@gmail.com
+* simonhfrost.com
+* github.com/simonhfrost
 
-I have over four years of professional experience as a software engineer, most recently as a front-end engineer. I excel in delivering features that improve user experience, while also focusing on code quality to maintain deployment velocity and future code maintainability.
+I excel in delivering features that cater to both the user and the business while also focusing on code quality to reduce development complexity. I have five years of professional experience as a software engineer, mainly as a front-end engineer.
 
-I believe there is no superior programming language or framework, and that projects should be analyzed for their individual needs. I understand that most issues arise from invalid assumptions, and that effective communication can mitigate this. I have experience working and communicating in teams with multiple roles that constantly changing.
+I believe that being a good programmer is more than just writing good code as issues can arise from many areas. Communicating effectively, identifying invalid assumptions, and choosing the right tooling are all skills I've learned over the years in different teams with various roles that are constantly changing.
 
 Work Experience
 ---------------
