@@ -1,14 +1,6 @@
 ---
-title: Resume
 template: index.jade
 ---
-
-Simon Frost - Software Engineer
--------------------------------
-
-* simonhfrost@gmail.com
-* simonhfrost.com
-* github.com/simonhfrost
 
 I excel in delivering features that cater to both the user and the business while also focusing on code quality to reduce development complexity. I have five years of professional experience as a software engineer, mainly as a front-end engineer.
 
@@ -30,8 +22,6 @@ Work Experience
 
 	Features I worked on included a bank switching service, transaction screen redesign, overdraft application process. I also maintained a negative line contribution to the project - as a sign of my commitment to improve code quality by removing code duplication and introducing best practices.
 
-&nbsp;
-
 *  Oct 2014 - Jan 2016: **Blacklane** - **Berlin**
 
     Front-end Developer
@@ -44,8 +34,6 @@ Work Experience
 
 	The main feature set I worked on was a corporate portal which provided features targeted towards enterprise customers that booked rides at a higher capacity. This required constant collaboration with product managers, UX, and other engineers.
 
-&nbsp;
-
 *   Feb 2012 - Feb 2014: **Telogis** - **New Zealand**
 
     Full Stack Developer
@@ -55,8 +43,6 @@ Work Experience
     At Telogis I worked on the interface and backend for a 'Traveling Salesman Problem' solver. The product integrated tightly with multiple different services such as a real-time fleet tracker.
 
     I worked with front-end technologies such as Ext JS and Silverlight, as well as backend technologies such as C#, SQL and PowerShell. I also helped in recruiting by giving employer presentations and attending job fairs.
-
-&nbsp;
 
 * 	 Nov 2011 - Feb 2012: **HITLab, University of Canterbury** - **New Zealand**
 

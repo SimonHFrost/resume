@@ -1,5 +1,9 @@
 {
   "locals": {
-    "title": "Resume"
+    "title": "Resume",
+    "pageHeader": "Simon Frost - Software Engineer",
+    "websiteUrl": "simonhfrost.com",
+    "githubUrl": "github.com/simonhfrost",
+    "email": "simonhfrost@gmail.com"
   }
 }
