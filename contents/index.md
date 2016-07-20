@@ -112,6 +112,9 @@ Interests
     - Music Festivals and Concerts
     - Playing Trumpet
 
+*	  **Digital Privacy and Independence**
+	  - EFF Silicon Member
+
 References
 ----------
 
