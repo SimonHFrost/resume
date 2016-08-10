@@ -2,9 +2,9 @@
 template: index.jade
 ---
 
-I excel in delivering features that cater to both the user and the business while also focusing on code quality to reduce development complexity. I have five years of professional experience as a software engineer, mainly as a front-end engineer.
+I excel in delivering features that cater to both users and the business while also accommodating high code quality to reduce future development complexity. I have five years of professional experience as a software engineer in a range of different environments, most recently as a front-end engineer.
 
-I believe that being a good programmer is more than just writing good code as issues can arise from many areas. Communicating effectively, identifying invalid assumptions, and choosing the right tooling are all skills I've learned over the years in different teams with various roles that are constantly changing.
+I believe that being a good programmer is more than just writing good code. Communicating effectively, identifying invalid assumptions, and choosing the right tooling are skills I've learned over the years in differing teams with various roles.
 
 Work Experience
 ---------------
