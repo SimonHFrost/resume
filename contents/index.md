@@ -114,8 +114,3 @@ Interests
 
 *	  **Digital Privacy and Independence**
 	  - EFF Silicon Member
-
-References
-----------
-
-*   Character and performance references supplied on request.
