@@ -2,9 +2,9 @@
 template: index.jade
 ---
 
-I excel in delivering features that cater to both users and the business while also accommodating high code quality to reduce future development complexity. I have five years of professional experience as a software engineer in a range of different environments, most recently as a front-end engineer.
+I excel in delivering technical solutions that cater to both users and the business while improving code quality to reduce future development complexity. I have five years of professional experience as a software engineer in a variety of roles, most recently as a front-end engineer.
 
-I believe that being a good programmer is more than just writing good code. Communicating effectively, identifying invalid assumptions, and choosing the right tooling are skills I've learned over the years in differing teams with various roles.
+I believe that being a good engineer is more than just writing good code. Communicating effectively, identifying invalid assumptions, and choosing the right tools are all skills I've learned that minimize risk and maximize efficiency.
 
 Work Experience
 ---------------
@@ -96,7 +96,7 @@ Community
 ---------
 
 * **Meetups**
-	- Co-organizer for 'Berlin Hack and Tell' meetup
+	- Co-organizer for Berlin Hack and Tell meetup
 	- Attendee of Ableton User Group, Berlin Web Audio, Berlin.js
 	- Support in Employer sponsored meetups - Clojure, Ruby, Go, Rust
 
@@ -110,7 +110,7 @@ Interests
 *   **Music**
     - Digital Music Production
     - Music Festivals and Concerts
-    - Playing Trumpet
 
-*	  **Digital Privacy and Independence**
+*	  **Digital Privacy**
 	  - EFF Silicon Member
+		- User privacy conscious
