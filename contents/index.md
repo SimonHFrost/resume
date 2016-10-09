@@ -18,9 +18,9 @@ Work Experience
 
 	At Number26 I worked on the web application which served half a million page views a month. There was a strong focus on rapid feature deployment while also improving code quality and tooling as the project was taken over from an outsourced contractor.
 
-	There was a high focus on design and user experience as I worked with Kanban in a team of talented designers, product managers and other engineers.
+	There was a high focus on design and UX as I worked with Kanban in a team of talented designers, product managers and other engineers.
 
-	Features I worked on included a bank switching service, transaction screen redesign, overdraft application process. I also maintained a negative line contribution to the project - as a sign of my commitment to improve code quality by removing code duplication and introducing best practices.
+	Features I worked on included a bank switching service, transaction screen redesign, overdraft, premium card, migration. I also maintained a negative line contribution to the project - as a sign of my commitment to improve code quality by removing code duplication and introducing best practices.
 
 *  Oct 2014 - Jan 2016: **Blacklane** - **Berlin**
 
@@ -28,7 +28,9 @@ Work Experience
     - Javascript, AngularJS, Ruby on Rails, Gulp, HAML, Sass
     - Your Professional Driver
 
-	At Blacklane I assisted with the release of the second version of the website which served over 150,000 views a month.
+	At Blacklane I worked on the second version of the web application which served over 150,000 views a month.
+
+	Tech5 fastest growing startup in Germany.
 
 	I continued to make improvements related to booking, ride listings, ride ratings, and other static marketing related pages.
 
