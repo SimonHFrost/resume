@@ -9,12 +9,12 @@ I believe that being a good engineer is more than just writing good code. Commun
 Work Experience
 ---------------
 
-*  Feb 2016 - Present: **Number26** - **Berlin**
-
-	Front-end Developer
-	- Javascript, Backbone, Sass, Gulp
+ 	- Number26
 	- Banking but better
-	- Bathroom DJ
+	- Berlin, Germany
+	- Front-end Developer
+	- Feb 2016 - Present
+	- Javascript, Backbone, Sass, Gulp
 
 	At Number26 I worked on the web application which served half a million page views a month. There was a strong focus on rapid feature deployment while also improving code quality and tooling as the project was taken over from an outsourced contractor.
 
@@ -22,39 +22,42 @@ Work Experience
 
 	Features I worked on included a bank switching service, transaction screen redesign, overdraft, premium card, migration. I also maintained a negative line contribution to the project - as a sign of my commitment to improve code quality by removing code duplication and introducing best practices.
 
-*  Oct 2014 - Jan 2016: **Blacklane** - **Berlin**
-
-    Front-end Developer
-    - Javascript, AngularJS, Ruby on Rails, Gulp, HAML, Sass
-    - Your Professional Driver
+	- Blacklane
+	- Your Professional Driver
+	- Berlin, Germany
+	- Front-end Developer
+	- Oct 2014 - Jan 2016
+	- Javascript, AngularJS, Ruby on Rails, Gulp, HAML, Sass
 
 	At Blacklane I worked on the second version of the web application which served over 150,000 views a month.
 
-	Tech5 fastest growing startup in Germany.
+	Tech5 'Fastest growing startup in Germany' in 2015.
 
 	I continued to make improvements related to booking, ride listings, ride ratings, and other static marketing related pages.
 
 	The main feature set I worked on was a corporate portal which provided features targeted towards enterprise customers that booked rides at a higher capacity. This required constant collaboration with product managers, UX, and other engineers.
 
-*   Feb 2012 - Feb 2014: **Telogis** - **New Zealand**
+	- Telogis
+	- Route Delivery Optimization and Logistics
+	- Christchurch, New Zealand
+	- Full stack developer
+	- Feb 2012 - Feb 2014
+	- Javascript, C#, SQL, PowerShell
 
-    Full Stack Developer
-    - Javascript, C#, SQL, PowerShell
-    - Route Delivery Optimization and Logistics
+  At Telogis I worked on the interface and backend for a 'Traveling Salesman Problem' solver. The product integrated tightly with multiple different services such as a real-time fleet tracker.
 
-    At Telogis I worked on the interface and backend for a 'Traveling Salesman Problem' solver. The product integrated tightly with multiple different services such as a real-time fleet tracker.
+  I worked with front-end technologies such as Ext JS and Silverlight, as well as backend technologies such as C#, SQL and PowerShell. I also helped in recruiting by giving employer presentations and attending job fairs.
 
-    I worked with front-end technologies such as Ext JS and Silverlight, as well as backend technologies such as C#, SQL and PowerShell. I also helped in recruiting by giving employer presentations and attending job fairs.
+	- HITLab
+	- Effective Design Processes for Educational Computer Games
+	- University of Canterbury, New Zealand
+	- Game Developer
+	- Nov 2011 - Feb 2012
+	- Javascript, C#, Unity3D
 
-* 	 Nov 2011 - Feb 2012: **HITLab, University of Canterbury** - **New Zealand**
+  At the 'Human Interface and Technology Laboratory' I obtained a scholarship and worked with a PhD student to develop a prototype game that taught players the application and methods of harnessing geothermal energy. I scripted interactions and gameplay with C# and javascript alongside another student that made models and animations.
 
-    Game Developer
-    - Javascript, C#, Unity3D
-    - Effective Design Processes for Educational Computer Games
-
-    At the 'Human Interface and Technology Laboratory' I obtained a scholarship and worked with a PhD student to develop a prototype game that taught players the application and methods of harnessing geothermal energy. I scripted interactions and gameplay with C# and javascript alongside another student that made models and animations.
-
-    The game won an internationally recognized student award, more information can be found here: [http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443](http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443)
+  The game won an internationally recognized student award, more information can be found here: [http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443](http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443)
 
 
 Personal Projects
