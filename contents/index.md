@@ -15,12 +15,13 @@ Work Experience
 	- Front-end Developer
 	- Feb 2016 - Present
 	- Javascript, Backbone, Sass, Gulp
+	- Kanban
 
-	At Number26 I worked on the web application which served half a million page views a month. There was a strong focus on rapid feature deployment while also improving code quality and tooling as the project was taken over from an outsourced contractor.
+	At Number26 I improved and maintained a banking application which served over 500,000 views a month.
 
-	There was a high focus on design and UX as I worked with Kanban in a team of talented designers, product managers and other engineers.
+	There was a strong focus on rapid feature deployment while improving code quality and tooling as the project was taken over from an outsourced contractor. There was a high focus on design and UX as I worked in a team of talented designers, product managers and other engineers.
 
-	Features I worked on included a bank switching service, transaction screen redesign, overdraft, premium card, migration. I also maintained a negative line contribution to the project - as a sign of my commitment to improve code quality by removing code duplication and introducing best practices.
+	Features I worked on included a bank switching service, transaction screen redesign, overdraft, premium card, and bank migration. I'm also proud of having more line removals than additions to the project, as a sign of my commitment to improve code quality by removing code duplication and introducing best practices.
 
 	- Blacklane
 	- Your Professional Driver
@@ -28,14 +29,15 @@ Work Experience
 	- Front-end Developer
 	- Oct 2014 - Jan 2016
 	- Javascript, AngularJS, Ruby on Rails, Gulp, HAML, Sass
+	- Scrum
 
-	At Blacklane I worked on the second version of the web application which served over 150,000 views a month.
+	At Blacklane I improved and maintained the second version of a limo booking application which served over 150,000 views a month.
 
-	Tech5 'Fastest growing startup in Germany' in 2015.
+	Blacklane received Tech5 'Fastest growing startup in Germany' in 2015, processes were continuously revised and updated
 
 	I continued to make improvements related to booking, ride listings, ride ratings, and other static marketing related pages.
 
-	The main feature set I worked on was a corporate portal which provided features targeted towards enterprise customers that booked rides at a higher capacity. This required constant collaboration with product managers, UX, and other engineers.
+	Features I worked on included a corporate portal, booking form additions and modifications, visual enhancements
 
 	- Telogis
 	- Route Delivery Optimization and Logistics
@@ -43,6 +45,7 @@ Work Experience
 	- Full stack developer
 	- Feb 2012 - Feb 2014
 	- Javascript, C#, SQL, PowerShell
+	- Scrum
 
   At Telogis I worked on the interface and backend for a 'Traveling Salesman Problem' solver. The product integrated tightly with multiple different services such as a real-time fleet tracker.
 
@@ -54,8 +57,9 @@ Work Experience
 	- Game Developer
 	- Nov 2011 - Feb 2012
 	- Javascript, C#, Unity3D
+	- Independent
 
-  At the 'Human Interface and Technology Laboratory' I obtained a scholarship and worked with a PhD student to develop a prototype game that taught players the application and methods of harnessing geothermal energy. I scripted interactions and gameplay with C# and javascript alongside another student that made models and animations.
+  At the Human Interface and Technology Laboratory (HITLab) I obtained a scholarship and worked with a PhD student to develop a prototype game that taught players the application and methods of harnessing geothermal energy. I scripted interactions and gameplay with C# and javascript alongside another student that made models and animations.
 
   The game won an internationally recognized student award, more information can be found here: [http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443](http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443)
 
@@ -81,7 +85,7 @@ Education
 
 *   **BSc in Computer Science** - (Feb 2009 - Dec 2011)
     - University of Canterbury, New Zealand
-    - Algorithms, Data Structures & Software Development
+    - Algorithms, Data Structures & Software Engineering
     - Java, Javascript, Android, Python, C#
 
 Supplemental Education
