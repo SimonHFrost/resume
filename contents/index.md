@@ -2,7 +2,7 @@
 template: index.jade
 ---
 
-I excel in delivering technical solutions that cater to both users and the business while improving code quality to reduce future development complexity. I have five years of professional experience as a software engineer in a variety of roles, most recently as a front-end engineer.
+I excel in delivering technical solutions that cater to both users and the business while improving code quality to reduce development complexity. I have five years of professional experience as a software engineer in a variety of roles, most recently as a front-end engineer.
 
 I believe that being a good engineer is more than just writing good code. Communicating effectively, identifying invalid assumptions, and choosing the right tools are all skills I've learned that minimize risk and maximize efficiency.
 
@@ -15,13 +15,12 @@ Work Experience
 	- Front-end Developer
 	- Feb 2016 - Present
 	- Javascript, Backbone, Sass, Gulp
-	- Kanban
 
 	At Number26 I improved and maintained a banking application which served over 500,000 views a month.
 
-	There was a strong focus on rapid feature deployment while improving code quality and tooling as the project was taken over from an outsourced contractor. There was a high focus on design and UX as I worked in a team of talented designers, product managers and other engineers.
+	There was a strong focus on rapid feature deployment while improving code quality and tooling as the project was taken over from an outsourced contractor. There was also a high focus on design and UX while collaborating with a team of talented designers, product managers and other engineers.
 
-	Features I worked on included a bank switching service, transaction screen redesign, overdraft, premium card, and bank migration. I'm also proud of having more line removals than additions to the project, as a sign of my commitment to improve code quality by removing code duplication and introducing best practices.
+	Features I worked on included a bank switching service, transaction screen redesign, overdraft functionality, premium card ordering, and bank migration. I also maintained more line removals than additions to the project, as a sign of my commitment to improve code quality by minimizing code duplication and introducing best practices.
 
 	- Blacklane
 	- Your Professional Driver
@@ -29,15 +28,12 @@ Work Experience
 	- Front-end Developer
 	- Oct 2014 - Jan 2016
 	- Javascript, AngularJS, Ruby on Rails, Gulp, HAML, Sass
-	- Scrum
 
-	At Blacklane I improved and maintained the second version of a limo booking application which served over 150,000 views a month.
+	At Blacklane I improved and maintained the second version of a limousine booking application which served over 150,000 views a month.
 
-	Blacklane received Tech5 'Fastest growing startup in Germany' in 2015, processes were continuously revised and updated
+	Blacklane received Tech5's 'Fastest growing startup in Germany' in 2015, which meant that I was heavily involved in adapting our development methodology as the company grew and we transitioned to Scrum. I also evaluated and implemented core technology such as AngularJS, and the introduction of Gulp.
 
-	I continued to make improvements related to booking, ride listings, ride ratings, and other static marketing related pages.
-
-	Features I worked on included a corporate portal, booking form additions and modifications, visual enhancements
+	Features I worked on included a corporate portal, enhancements to the booking form, ride listing improvements, ride ratings, and static marketing/SEO related pages.
 
 	- Telogis
 	- Route Delivery Optimization and Logistics
@@ -45,11 +41,12 @@ Work Experience
 	- Full stack developer
 	- Feb 2012 - Feb 2014
 	- Javascript, C#, SQL, PowerShell
-	- Scrum
 
-  At Telogis I worked on the interface and backend for a 'Traveling Salesman Problem' solver. The product integrated tightly with multiple different services such as a real-time fleet tracker.
+  At Telogis I worked on the interface and backend for a traveling salesman problem solver. The product was used by numerous American companies such as Coca-cola and Verizon.
 
-  I worked with front-end technologies such as Ext JS and Silverlight, as well as backend technologies such as C#, SQL and PowerShell. I also helped in recruiting by giving employer presentations and attending job fairs.
+  The product was mathematically technical in nature and I worked alongside many talented PhD and Masters degree graduates. Working as a full stack developer as my first position outside of University was great exposure to a range of different technologies.
+
+  Features I worked on included a route templating system, routing algorithm memory optimziations, user creation and modification tooling, and testing improvements such as the introduction of BDD.
 
 	- HITLab
 	- Effective Design Processes for Educational Computer Games
@@ -57,9 +54,13 @@ Work Experience
 	- Game Developer
 	- Nov 2011 - Feb 2012
 	- Javascript, C#, Unity3D
-	- Independent
 
-  At the Human Interface and Technology Laboratory (HITLab) I obtained a scholarship and worked with a PhD student to develop a prototype game that taught players the application and methods of harnessing geothermal energy. I scripted interactions and gameplay with C# and javascript alongside another student that made models and animations.
+  At the Human Interface and Technology Laboratory (HITLab) I obtained a scholarship and worked with a PhD student to develop a prototype game that taught players the application and methods of harnessing geothermal energy.
+
+  The focus of the project was to identify aspects that enhance learning such as the concept of 'flow' which is a state between being overwhelmed and underwhelmed and consequently feeling the most engaged.
+
+  Features I worked on included the initial creation of the project, interactions with objects and NPCs, environment creation, and sequencing of models and animations.
+
 
   The game won an internationally recognized student award, more information can be found here: [http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443](http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443)
 
@@ -105,16 +106,16 @@ Community
 ---------
 
 * **Meetups**
-	- Co-organizer for Berlin Hack and Tell meetup
-	- Attendee of Ableton User Group, Berlin Web Audio, Berlin.js
-	- Support in Employer sponsored meetups - Clojure, Ruby, Go, Rust
+	- Co-organizer for Berlin Hack and Tell Meetup
+	- Frequent attendee of Ableton User Group, Berlin Web Audio, Berlin.js
+	- Support in Employer sponsored Meetups - Clojure, Ruby, Go, Rust
 
 * **Events**
-	- Conferences - JSconf.eu, JSConf.bp, JSUnconf
+	- Conferences - Socrates DE, JSCraftCamp
 	- Hackathons - Node Knockout, Global Game Jam, Lundum Dare
 
 Interests
--
+---------
 
 *   **Music**
     - Digital Music Production
@@ -123,3 +124,4 @@ Interests
 *	  **Digital Privacy**
 	  - EFF Silicon Member
 		- User privacy conscious
+    - DEFcon
