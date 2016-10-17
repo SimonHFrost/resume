@@ -57,13 +57,9 @@ Work Experience
 
   At the Human Interface and Technology Laboratory (HITLab) I obtained a scholarship and worked with a PhD student to develop a prototype game that taught players the application and methods of harnessing geothermal energy.
 
-  The focus of the project was to identify aspects that enhance learning such as the concept of 'flow' which is a state between being overwhelmed and underwhelmed and consequently feeling the most engaged.
+  The focus of the project was to identify aspects that enhance learning such as the concept of 'flow' which is a state between being overwhelmed and underwhelmed and consequently feeling the most engaged. The game won an internationally recognized student award, more information can be found here: [http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443](http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443)
 
   Features I worked on included the initial creation of the project, interactions with objects and NPCs, environment creation, and sequencing of models and animations.
-
-
-  The game won an internationally recognized student award, more information can be found here: [http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443](http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443)
-
 
 Personal Projects
 -----------------
@@ -124,4 +120,3 @@ Interests
 *	  **Digital Privacy**
 	  - EFF Silicon Member
 		- User privacy conscious
-    - DEFcon
