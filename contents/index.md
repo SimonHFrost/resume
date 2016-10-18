@@ -20,7 +20,7 @@ Work Experience
 
 	There was a strong focus on rapid feature deployment while improving code quality and tooling as the project was taken over from an outsourced contractor. There was also a high focus on design and UX while collaborating with a team of talented designers, product managers and other engineers.
 
-	Features I worked on included a bank switching service, transaction screen redesign, overdraft functionality, premium card ordering, and bank migration. I also maintained more line removals than additions to the project, as a sign of my commitment to improve code quality by minimizing code duplication and introducing best practices.
+	Features I worked on included a bank switching service, transaction screen redesign, overdraft functionality, premium card ordering, and bank migration. I also achieved more line removals than additions to the project, as a sign of my commitment to improve code quality by minimizing code duplication and introducing best practices.
 
 	- Blacklane
 	- Your Professional Driver
@@ -31,7 +31,7 @@ Work Experience
 
 	At Blacklane I improved and maintained the second version of a limousine booking application which served over 150,000 views a month.
 
-	Blacklane received Tech5's 'Fastest growing startup in Germany' in 2015, which meant that I was heavily involved in adapting our development methodology as the company grew and we transitioned to Scrum. I also evaluated and implemented core technology such as AngularJS, and the introduction of Gulp.
+	Blacklane received Tech5's 'Fastest growing startup in Germany' in 2015, which meant that I was heavily involved in adapting our development methodology as the company grew and transitioned to Scrum. I also evaluated and implemented core technology such as AngularJS, and the introduction of Gulp.
 
 	Features I worked on included a corporate portal, enhancements to the booking form, ride listing improvements, ride ratings, and static marketing/SEO related pages.
 
@@ -42,7 +42,7 @@ Work Experience
 	- Feb 2012 - Feb 2014
 	- Javascript, C#, SQL, PowerShell
 
-  At Telogis I worked on the interface and backend for a traveling salesman problem solver. The product was used by numerous American companies such as Coca-cola and Verizon.
+  At Telogis I worked on the interface and backend for a traveling salesman problem solver. The product was used by numerous large American companies such as Coca-cola and Verizon.
 
   The product was mathematically technical in nature and I worked alongside many talented PhD and Masters degree graduates. Working as a full stack developer as my first position outside of University was great exposure to a range of different technologies.
 
@@ -57,7 +57,7 @@ Work Experience
 
   At the Human Interface and Technology Laboratory (HITLab) I obtained a scholarship and worked with a PhD student to develop a prototype game that taught players the application and methods of harnessing geothermal energy.
 
-  The focus of the project was to identify aspects that enhance learning such as the concept of 'flow' which is a state between being overwhelmed and underwhelmed and consequently feeling the most engaged. The game won an internationally recognized student award, more information can be found here: [http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443](http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443)
+  The focus of the project was to identify aspects that enhance learning such as the concept of 'flow' which is a state between being overwhelmed and underwhelmed and consequently feeling engaged to learn. The game won an internationally recognized student award, more information can be found here: [http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443](http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443)
 
   Features I worked on included the initial creation of the project, interactions with objects and NPCs, environment creation, and sequencing of models and animations.
 
@@ -86,7 +86,7 @@ Education
     - Java, Javascript, Android, Python, C#
 
 Supplemental Education
--
+----------------------
 
 *   **CodeSchool.com**
     - Anatomy of Backbone.js
