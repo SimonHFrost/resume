@@ -6,9 +6,9 @@ I excel in delivering technical solutions that cater to both users and businesse
 
 I believe that being a good engineer is more than just writing good code. Communicating effectively, identifying invalid assumptions, and choosing the right tools are all skills I've learned that minimize risk and maximize efficiency.
 
-# Work Experience
+## Work Experience
 
-## N26
+### N26
 
 * Banking but better
 * Berlin, Germany
@@ -22,7 +22,7 @@ There was a strong focus on rapid feature deployment while improving code qualit
 
 Features I worked on included a bank switching service, transaction screen redesign, overdraft functionality, premium card ordering, and bank migration. I also achieved more line removals than additions to the project, as a sign of my commitment to improve code quality by minimizing code duplication and introducing best practices.
 
-## Blacklane
+### Blacklane
 
 * Your Professional Driver
 * Berlin, Germany
@@ -36,7 +36,7 @@ Blacklane received Tech5's 'Fastest growing startup in Germany' in 2015, which m
 
 Features I worked on included a corporate portal, enhancements to the booking form, ride listing improvements, ride ratings, and static marketing/SEO related pages.
 
-## Telogis
+### Telogis
 
 * Route Delivery Optimization and Logistics
 * Christchurch, New Zealand
@@ -50,7 +50,7 @@ The product was mathematically technical in nature and I worked alongside many t
 
 Features I worked on included a route templating system, routing algorithm memory optimziations, user creation and modification tooling, and testing improvements such as the introduction of BDD.
 
-## HITLab
+### HITLab
 
 * Effective Design Processes for Educational Computer Games
 * University of Canterbury, New Zealand
@@ -60,33 +60,33 @@ Features I worked on included a route templating system, routing algorithm memor
 
 At the HITLab (Human Interface and Technology Laboratory) I obtained a scholarship and worked with a PhD student to develop a prototype game that taught players the application and methods of harnessing geothermal energy.
 
-The focus of the project was to identify aspects that enhance learning such as the concept of 'flow' which is a state between being overwhelmed and underwhelmed and consequently feeling engaged to learn. The game won an internationally recognized student award, more information can be found here: [http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443](http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443)
+The focus of the project was to identify aspects that enhance learning such as the concept of 'flow' which is a state between being overwhelmed and underwhelmed and consequently feeling engaged to learn. The game won an internationally recognized student award, more information can be found here: [[link]](http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443)
 
 Features I worked on included the initial creation of the project, scripting with objects and NPCs, environment creation, and sequencing of models and animations.
 
-# Personal Projects
+## Personal Projects
 
-*   **Rainbow Slice** (https://github.com/SimonHFrost/rainbow-slice)
+*   **Rainbow Slice** [[GitHub]](https://github.com/SimonHFrost/rainbow-slice)
     - WebGL video game made with Three.js and Node.js
 
-*   **Merry Beats 3D** (https://github.com/SimonHFrost/merry-beats-3d)
+*   **Merry Beats 3D** [[GitHub]](https://github.com/SimonHFrost/merry-beats-3d)
     - 3D Step sequencer based on ableton.com/merry-beats
 
-*   **Awkward Turtle** (https://play.google.com/store/apps/details?id=awkwardturtle.frostapplications)
+*   **Awkward Turtle** [[Play Store]](https://play.google.com/store/apps/details?id=awkwardturtle.frostapplications)
     - Simple Android application with 15,000 downloads
 
-*   **The Certified Organic, Vegan Sequetron 5000** (https://github.com/ashokfernandez/MidiHack2015)
+*   **The Certified Organic, Vegan Sequetron 5000** [[GitHub]](https://github.com/ashokfernandez/MidiHack2015)
     - Basic step sequencer in iOS for 'Midihack' Hackathon
 
 
-# Education
+## Education
 
 *   **BSc in Computer Science** - (Feb 2009 - Dec 2011)
     - University of Canterbury, New Zealand
     - Algorithms, Data Structures & Software Engineering
     - Java, Javascript, Android, Python, C#
 
-# Supplementary Education
+## Supplementary Education
 
 *   **CodeSchool.com**
     - Anatomy of Backbone.js
@@ -98,7 +98,7 @@ Features I worked on included the initial creation of the project, scripting wit
     - Heterogeneous Programming
     - Introduction to (Musical) Improvisation
 
-# Community
+## Community
 
 * **Meetups**
 	- Co-organizer for Berlin Hack and Tell Meetup
@@ -109,7 +109,7 @@ Features I worked on included the initial creation of the project, scripting wit
 	- Conferences - Socrates DE, JSCraftCamp, JSConf EU
 	- Hackathons - Node Knockout, Global Game Jam, Lundum Dare
 
-# Interests
+## Interests
 
 *   **Music**
     - Digital Music Production
