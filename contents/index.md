@@ -6,63 +6,65 @@ I excel in delivering technical solutions that cater to both users and the busin
 
 I believe that being a good engineer is more than just writing good code. Communicating effectively, identifying invalid assumptions, and choosing the right tools are all skills I've learned that minimize risk and maximize efficiency.
 
-Work Experience
----------------
+# Work Experience
 
- 	- Number26
-	- Banking but better
-	- Berlin, Germany
-	- Front-end Developer
-	- Feb 2016 - Present
-	- Javascript, Backbone, Sass, Gulp
+## N26
 
-	At Number26 I improved and maintained a banking application which served over 500,000 views a month.
+* Banking but better
+* Berlin, Germany
+* Front-end Developer
+* Feb 2016 - Present
+* Javascript, Backbone, Sass, Gulp
 
-	There was a strong focus on rapid feature deployment while improving code quality and tooling as the project was taken over from an outsourced contractor. There was also a high focus on design and UX while collaborating with a team of talented designers, product managers and other engineers.
+At Number26 I improved and maintained a banking application which served over 500,000 views a month.
 
-	Features I worked on included a bank switching service, transaction screen redesign, overdraft functionality, premium card ordering, and bank migration. I also achieved more line removals than additions to the project, as a sign of my commitment to improve code quality by minimizing code duplication and introducing best practices.
+There was a strong focus on rapid feature deployment while improving code quality and tooling as the project was taken over from an outsourced contractor. There was also a high focus on design and UX while collaborating with a team of talented designers, product managers and other engineers.
 
-	- Blacklane
-	- Your Professional Driver
-	- Berlin, Germany
-	- Front-end Developer
-	- Oct 2014 - Jan 2016
-	- Javascript, AngularJS, Ruby on Rails, Gulp, HAML, Sass
+Features I worked on included a bank switching service, transaction screen redesign, overdraft functionality, premium card ordering, and bank migration. I also achieved more line removals than additions to the project, as a sign of my commitment to improve code quality by minimizing code duplication and introducing best practices.
 
-	At Blacklane I improved and maintained the second version of a limousine booking application which served over 150,000 views a month.
+## Blacklane
 
-	Blacklane received Tech5's 'Fastest growing startup in Germany' in 2015, which meant that I was heavily involved in adapting our development methodology as the company grew and transitioned to Scrum. I also evaluated and implemented core technology such as AngularJS, and the introduction of Gulp.
+* Your Professional Driver
+* Berlin, Germany
+* Front-end Developer
+* Oct 2014 - Jan 2016
+* Javascript, AngularJS, Ruby on Rails, Gulp, HAML, Sass
 
-	Features I worked on included a corporate portal, enhancements to the booking form, ride listing improvements, ride ratings, and static marketing/SEO related pages.
+At Blacklane I improved and maintained the second version of a limousine booking application which served over 150,000 views a month.
 
-	- Telogis
-	- Route Delivery Optimization and Logistics
-	- Christchurch, New Zealand
-	- Full stack developer
-	- Feb 2012 - Feb 2014
-	- Javascript, C#, SQL, PowerShell
+Blacklane received Tech5's 'Fastest growing startup in Germany' in 2015, which meant that I was heavily involved in adapting our development methodology as the company grew and transitioned to Scrum. I also evaluated and implemented core technology such as AngularJS, and the introduction of Gulp.
 
-  At Telogis I worked on the interface and backend for a traveling salesman problem solver. The product was used by numerous large American companies such as Coca-cola and Verizon.
+Features I worked on included a corporate portal, enhancements to the booking form, ride listing improvements, ride ratings, and static marketing/SEO related pages.
 
-  The product was mathematically technical in nature and I worked alongside many talented PhD and Masters degree graduates. Working as a full stack developer as my first position outside of University was great exposure to a range of different technologies.
+## Telogis
 
-  Features I worked on included a route templating system, routing algorithm memory optimziations, user creation and modification tooling, and testing improvements such as the introduction of BDD.
+* Route Delivery Optimization and Logistics
+* Christchurch, New Zealand
+* Full stack developer
+* Feb 2012 - Feb 2014
+* Javascript, C#, SQL, PowerShell
 
-	- HITLab
-	- Effective Design Processes for Educational Computer Games
-	- University of Canterbury, New Zealand
-	- Game Developer
-	- Nov 2011 - Feb 2012
-	- Javascript, C#, Unity3D
+At Telogis I worked on the interface and backend for a traveling salesman problem solver. The product was used by numerous large American companies such as Coca-cola and Verizon.
 
-  At the Human Interface and Technology Laboratory (HITLab) I obtained a scholarship and worked with a PhD student to develop a prototype game that taught players the application and methods of harnessing geothermal energy.
+The product was mathematically technical in nature and I worked alongside many talented PhD and Masters degree graduates. Working as a full stack developer as my first position outside of University was great exposure to a range of different technologies.
 
-  The focus of the project was to identify aspects that enhance learning such as the concept of 'flow' which is a state between being overwhelmed and underwhelmed and consequently feeling engaged to learn. The game won an internationally recognized student award, more information can be found here: [http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443](http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443)
+Features I worked on included a route templating system, routing algorithm memory optimziations, user creation and modification tooling, and testing improvements such as the introduction of BDD.
 
-  Features I worked on included the initial creation of the project, interactions with objects and NPCs, environment creation, and sequencing of models and animations.
+## HITLab
 
-Personal Projects
------------------
+* Effective Design Processes for Educational Computer Games
+* University of Canterbury, New Zealand
+* Game Developer
+* Nov 2011 - Feb 2012
+* Javascript, C#, Unity3D
+
+At the Human Interface and Technology Laboratory (HITLab) I obtained a scholarship and worked with a PhD student to develop a prototype game that taught players the application and methods of harnessing geothermal energy.
+
+The focus of the project was to identify aspects that enhance learning such as the concept of 'flow' which is a state between being overwhelmed and underwhelmed and consequently feeling engaged to learn. The game won an internationally recognized student award, more information can be found here: [http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443](http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443)
+
+Features I worked on included the initial creation of the project, interactions with objects and NPCs, environment creation, and sequencing of models and animations.
+
+# Personal Projects
 
 *   **Rainbow Slice** (https://github.com/SimonHFrost/rainbow-slice)
     - WebGL video game made with Three.js and Node.js
@@ -77,16 +79,14 @@ Personal Projects
     - Basic step sequencer in iOS for 'Midihack' Hackathon
 
 
-Education
----------
+# Education
 
 *   **BSc in Computer Science** - (Feb 2009 - Dec 2011)
     - University of Canterbury, New Zealand
     - Algorithms, Data Structures & Software Engineering
     - Java, Javascript, Android, Python, C#
 
-Supplemental Education
-----------------------
+# Supplementary Education
 
 *   **CodeSchool.com**
     - Anatomy of Backbone.js
@@ -98,8 +98,7 @@ Supplemental Education
     - Heterogeneous Programming
     - Introduction to (Musical) Improvisation
 
-Community
----------
+# Community
 
 * **Meetups**
 	- Co-organizer for Berlin Hack and Tell Meetup
@@ -107,11 +106,10 @@ Community
 	- Support in Employer sponsored Meetups - Clojure, Ruby, Go, Rust
 
 * **Events**
-	- Conferences - Socrates DE, JSCraftCamp
+	- Conferences - Socrates DE, JSCraftCamp, JSConf EU
 	- Hackathons - Node Knockout, Global Game Jam, Lundum Dare
 
-Interests
----------
+# Interests
 
 *   **Music**
     - Digital Music Production
