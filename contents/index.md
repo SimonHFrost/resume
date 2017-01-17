@@ -66,55 +66,66 @@ Features I worked on included the initial creation of the project, scripting wit
 
 ## Personal Projects
 
-*   **Rainbow Slice** [[GitHub]](https://github.com/SimonHFrost/rainbow-slice)
-    - WebGL video game made with Three.js and Node.js
+###   Rainbow Slice [[GitHub]](https://github.com/SimonHFrost/rainbow-slice)
 
-*   **Merry Beats 3D** [[GitHub]](https://github.com/SimonHFrost/merry-beats-3d)
-    - 3D Step sequencer based on ableton.com/merry-beats
+WebGL video game made with Three.js and Node.js
 
-*   **Awkward Turtle** [[Play Store]](https://play.google.com/store/apps/details?id=awkwardturtle.frostapplications)
-    - Simple Android application with 15,000 downloads
+###   Merry Beats 3D [[GitHub]](https://github.com/SimonHFrost/merry-beats-3d)
 
-*   **The Certified Organic, Vegan Sequetron 5000** [[GitHub]](https://github.com/ashokfernandez/MidiHack2015)
-    - Basic step sequencer in iOS for 'Midihack' Hackathon
+3D Step sequencer based on ableton.com/merry-beats
+
+###   Awkward Turtle [[Play Store]](https://play.google.com/store/apps/details?id=awkwardturtle.frostapplications)
+
+Simple Android application with 15,000 downloads
+
+###   The Certified Organic, Vegan Sequetron 5000 [[GitHub]](https://github.com/ashokfernandez/MidiHack2015)
+
+Basic step sequencer in iOS for 'Midihack' Hackathon
 
 
 ## Education
 
-*   **BSc in Computer Science** - (Feb 2009 - Dec 2011)
-    - University of Canterbury, New Zealand
-    - Algorithms, Data Structures & Software Engineering
-    - Java, Javascript, Android, Python, C#
+###   BSc in Computer Science (Feb 2009 - Dec 2011)
+
+* University of Canterbury, New Zealand
+* Algorithms, Data Structures & Software Engineering
+* Java, Javascript, Android, Python, C#
 
 ## Supplementary Education
 
-*   **CodeSchool.com**
-    - Anatomy of Backbone.js
-    - Real-time Web with Node.js
-    - Rails for Zombies Redux
+###   CodeSchool.com
 
-*   **Coursera.org**
-    - Functional Programming
-    - Heterogeneous Programming
-    - Introduction to (Musical) Improvisation
+* Anatomy of Backbone.js
+* Real-time Web with Node.js
+* Rails for Zombies Redux
+
+###   Coursera.org
+
+* Functional Programming
+* Heterogeneous Programming
+* Introduction to (Musical) Improvisation
 
 ## Community
 
-* **Meetups**
-	- Co-organizer for Berlin Hack and Tell Meetup
-	- Frequent attendee of Ableton User Group, Berlin Web Audio, Berlin.js
-	- Support in Employer sponsored Meetups - Clojure, Ruby, Go, Rust
+### Meetups
 
-* **Events**
-	- Conferences - Socrates DE, JSCraftCamp, JSConf EU
-	- Hackathons - Node Knockout, Global Game Jam, Lundum Dare
+* Co-organizer for Berlin Hack and Tell Meetup
+* Frequent attendee of Ableton User Group, Berlin Web Audio, Berlin.js
+* Support in Employer sponsored Meetups - Clojure, Ruby, Go, Rust
+
+### Events
+
+* Conferences - Socrates DE, JSCraftCamp, JSConf EU
+* Hackathons - Node Knockout, Global Game Jam, Lundum Dare
 
 ## Interests
 
-*   **Music**
-    - Digital Music Production
-    - Music Festivals and Concerts
+###   Music
 
-*	  **Digital Privacy**
-	  - EFF Silicon Member
-		- User privacy conscious
+* Digital Music Production
+* Music Festivals and Concerts
+
+###	  Digital Privacy
+
+* EFF Silicon Member
+* User privacy conscious
