@@ -2,7 +2,7 @@
 template: index.jade
 ---
 
-I excel in delivering technical solutions that cater to both users and the business while improving code quality to reduce development complexity. I have five years of professional experience as a software engineer in a variety of roles, most recently as a front-end engineer.
+I excel in delivering technical solutions that cater to both users and businesses while improving code quality to reduce future development complexity. I have five years of professional experience as a software engineer in a variety of roles, most recently as a front-end engineer.
 
 I believe that being a good engineer is more than just writing good code. Communicating effectively, identifying invalid assumptions, and choosing the right tools are all skills I've learned that minimize risk and maximize efficiency.
 
