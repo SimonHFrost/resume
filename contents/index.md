@@ -58,11 +58,11 @@ Features I worked on included a route templating system, routing algorithm memor
 * Nov 2011 - Feb 2012
 * Javascript, C#, Unity3D
 
-At the Human Interface and Technology Laboratory (HITLab) I obtained a scholarship and worked with a PhD student to develop a prototype game that taught players the application and methods of harnessing geothermal energy.
+At the HITLab (Human Interface and Technology Laboratory) I obtained a scholarship and worked with a PhD student to develop a prototype game that taught players the application and methods of harnessing geothermal energy.
 
 The focus of the project was to identify aspects that enhance learning such as the concept of 'flow' which is a state between being overwhelmed and underwhelmed and consequently feeling engaged to learn. The game won an internationally recognized student award, more information can be found here: [http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443](http://www.comsdev.canterbury.ac.nz/rss/news/?feed=news&articleId=443)
 
-Features I worked on included the initial creation of the project, interactions with objects and NPCs, environment creation, and sequencing of models and animations.
+Features I worked on included the initial creation of the project, scripting with objects and NPCs, environment creation, and sequencing of models and animations.
 
 # Personal Projects
 
